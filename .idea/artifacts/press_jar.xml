@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="press:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/press_jar</output-path>
+    <root id="archive" name="press.jar">
+      <element id="module-output" name="press" />
+    </root>
+  </artifact>
+</component>
